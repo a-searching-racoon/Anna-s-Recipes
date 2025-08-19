@@ -10,11 +10,14 @@ body{
 title{
   font-size:50px;
   font-family:"Paris";
+  color:white;
+  padding:20px;
 }
 
 head{
   font-family:"Paris";
   font-size:35px;
+  color:white;
 }
 
 h2{
@@ -30,6 +33,26 @@ h3{
 p{
   font-size:15px;
   font-family:"Tahoma";
-  color:hotpink
+  color:plum;
 }
 
+ul{
+  list-style-type: none;
+  background-color:peachpuff;
+  text-align:center;
+  padding:20px;
+}
+
+a{
+  color:#F8F7FF;
+  border-radius: 10px;
+  text-decoration:none;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+a:hover{
+  font-weight:bolder;
+  color:#F8F7FF;
+  padding:17px;
+}
