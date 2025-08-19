@@ -2,10 +2,34 @@
 body{
   background-color:#9381FF;
   font-size:15px;
-  font-family:serif
+  font-family:serif;
+  width:80wv;
+  padding:20px;
+}
+
+title{
+  font-size:50px;
+  font-family:"Paris";
 }
 
 head{
   font-family:"Paris";
   font-size:35px;
 }
+
+h2{
+  font-size:25px;
+  font-family:"Georgia";
+}
+
+h3{
+  font-size:20px;
+  font-family:"Georgia"
+}
+
+p{
+  font-size:15px;
+  font-family:"Tahoma";
+  color:hotpink
+}
+
