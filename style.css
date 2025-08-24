@@ -16,6 +16,7 @@ h1{
   font-family:"Paris";
   color:white;
   padding:20px;
+  text-align:center;
 }
 
 head{
@@ -38,6 +39,7 @@ p{
   font-size:15px;
   font-family:"Tahoma";
   color:plum;
+  text-align:center;
 }
 
 ul{
