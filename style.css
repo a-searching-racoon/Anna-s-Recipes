@@ -1,5 +1,9 @@
 
 body{
+  background-image: url('pinkbackground.jpg'); /* Replace with your image path */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-size: cover; /* Stretches image to cover the entire background */
+  background-position: center; /* Centers the image */
   background-color:#9381FF;
   font-size:15px;
   font-family:serif;
