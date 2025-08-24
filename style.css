@@ -68,4 +68,5 @@ img{
   width: 50%; /* Image takes full width of its parent container */
   max-width: 200px; /* Image will not exceed 600px in width */
   height: auto; 
+  margin:0 auto;
 }
