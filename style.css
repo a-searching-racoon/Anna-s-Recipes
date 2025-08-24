@@ -9,6 +9,7 @@ body{
   font-family:serif;
   padding:20px;
   margin: 0 auto;
+  text-align:center;
 }
 
 h1{
@@ -61,4 +62,10 @@ a:hover{
   font-weight:bolder;
   color:#F8F7FF;
   padding:17px;
+}
+
+img{
+  width: 50%; /* Image takes full width of its parent container */
+  max-width: 200px; /* Image will not exceed 600px in width */
+  height: auto; 
 }
