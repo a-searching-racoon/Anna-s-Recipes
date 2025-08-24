@@ -24,16 +24,19 @@ head{
   font-family:"Paris";
   font-size:35px;
   color:white;
+  text-align:center;
 }
 
 h2{
   font-size:25px;
   font-family:"Georgia";
+  text-align:center;
 }
 
 h3{
   font-size:20px;
   font-family:"Georgia"
+  text-align:center;
 }
 
 p{
@@ -65,8 +68,8 @@ a:hover{
 }
 
 img{
-  width: 50%; /* Image takes full width of its parent container */
-  max-width: 200px; /* Image will not exceed 600px in width */
-  height: auto; 
+  display:block;
   margin:0 auto;
+  width:200px;
+  height:auto;
 }
