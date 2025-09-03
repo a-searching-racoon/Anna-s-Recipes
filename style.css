@@ -83,6 +83,10 @@ img{
 .description{
   color:#AB4E68;
   font-style: italic;
+  font-size:15px;
+  font-family:"Tahoma";
+  color:#230903;
+  text-align:center;
 }
 
 .ingredients {
