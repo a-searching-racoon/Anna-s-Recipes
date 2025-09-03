@@ -59,7 +59,6 @@ p{
 
 ul{
   list-style-type: none;
-  background-color:#ff5d8f;
   text-align:center;
   padding:20px;
   width:70wv;
@@ -68,6 +67,7 @@ ul{
 
 a{
   color:#F8F7FF;
+  background-color:#ff5d8f;
   border-radius: 10px;
   text-decoration:none;
   padding-left:10px;
@@ -99,12 +99,14 @@ img{
 
 .ingredients {
   border: 3px solid black;
-  background-color:#FFF0F5;
+  background-color:#ffe5ec;
+  margin: 10px 20px;
 }
 
 .directions {
   border: 3px solid black;
-  background-color:#FFF0F5;
+  background-color:#ffe5ec;
+  margin:20px 10px;
 }
 
 #bakeryimg{
