@@ -72,8 +72,7 @@ a:hover{
 }
 
 img{
-  display:flex;
-  float:right;
+  display:inline;
   margin:0 auto;
   width:200px;
   height:auto;
