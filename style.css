@@ -54,6 +54,7 @@ ul{
   text-align:center;
   padding:20px;
   width:70wv;
+  clear:both;
 }
 
 a{
@@ -76,8 +77,18 @@ img{
   margin:0 auto;
   width:200px;
   height:auto;
+  overflow:hidden;
 }
+
 .description{
   color:#AB4E68;
   font-style: italic;
+}
+
+.ingredients {
+  border: 3px solid black;
+}
+
+.directions {
+  border: 3px solid black;
 }
