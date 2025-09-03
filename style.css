@@ -20,6 +20,15 @@ h1{
   padding:20px;
   text-align:center;
   width:80wv;
+  text-shadow:
+                -2px -2px 0 #FCB7CC,
+                2px -2px 0 #FCB7CC,
+                -2px 2px 0 #FCB7CC,
+                2px 2px 0 #FCB7CC,
+                -3px 0px 0 #FCB7CC,
+                3px 0px 0 #FCB7CC,
+                0px -3px 0 #FCB7CC,
+                0px 3px 0 #FCB7CC;
 }
 
 head{
