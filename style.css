@@ -108,7 +108,8 @@ img{
 }
 
 #bakeryimg{
-  width:50wv;
+  width:40wv;
   height:auto;
-  float:left;
+  float:right;
+  padding:30px;
 }
