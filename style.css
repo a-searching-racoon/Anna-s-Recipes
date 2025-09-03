@@ -113,8 +113,9 @@ img{
   width:500px;
   height:auto;
   float:right;
-  padding:30px;
-  margin:20px;
+  padding:10px;
+  margin:10px;
+  border-radius:15px;
 }
 
 .navbar{
