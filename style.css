@@ -41,6 +41,16 @@ h2{
   font-size:30px;
   font-family:"Georgia";
   text-align:center;
+  background: url('assets/pinkbackground.jpg') no-repeat center center;
+ background-size: cover;
+ color: #fff;
+ -webkit-text-fill-color: transparent;
+ -webkit-background-clip: text;
+ -moz-background-clip:text;
+ background-clip:text; 
+ font-size:2.5em;
+ text-align:center;
+ -webkit-text-stroke: .7px #ff5d8f;
 }
 
 h3{
@@ -54,16 +64,16 @@ p{
   font-family:"Tahoma";
   color:#230903;
   text-align:center;
-  padding:5px;
+  padding:1px;
+  padding-left:15px;
+  padding-right:15px;
 }
 
 ul{
   text-align:center;
-  padding:20px;
   width:70wv;
   clear:both;
-  list-style-image: url('assets/pinkbackground.jpg');
-  list-style-type: circle;
+  list-style-type:none;
 }
 
 a{
@@ -121,8 +131,5 @@ img{
 
 .navbar{
   background-color:#ff5d8f;
-}
-
-ol{
-  list-style-position: inside;
+  padding:20px;
 }
